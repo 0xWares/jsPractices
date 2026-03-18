@@ -1,3 +1,5 @@
+// Reverse a string
+
 const str = 'I am wares, nice to meet you'
 
 const res = str.split(' ').reverse().join(' ')
