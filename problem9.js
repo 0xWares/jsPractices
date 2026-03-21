@@ -18,4 +18,4 @@ for(let w of words){
 }
 
 console.log(longest);
-console.log("Wares");
+
